@@ -50,4 +50,4 @@ I'm a student studying full-stack web development at North Western University. A
 
  #
 
- ![Snake animation](https://github.com/Ryebread5555/Ryebread5555/blob/output/github-contribution-grid-snake.svg)
+ 

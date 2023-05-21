@@ -4,7 +4,7 @@
 
 ---
 
-I'm a student studying full-stack web development at NorthWestern University. All coding projects on my page are my assignments I worked on while studying in my bootcamp. Listed down below are some of my coding languages and proficiencies I've learned through my coding journey!
+I'm a student studying full-stack web development at Northwestern University. All coding projects on my page are my assignments I worked on while studying in my bootcamp. Listed down below are some of my coding languages and proficiencies I've learned through my coding journey!
 
 ---
 

@@ -29,14 +29,14 @@ Currently, I’m focused on **React, Node.js, and modern JavaScript ecosystems**
 
 ## 🚀 Featured Projects  
 
-- **[Pet Services]((https://github.com/dltorrise/Pet-Services))**  
-  A fullstack project using Google API, stripe, and mongoDB for users to create accounts, find local services, and checkout.
+- **[Pet Services](https://github.com/dltorrise/Pet-Services)**  
+  A fullstack project using Google API, Stripe, and MongoDB for users to create accounts, find local services, and checkout.
 
 - **[Lean On Me](https://github.com/MunaZekia/Lean-On-Me)**  
-  Group project using nodejs, express, and mySQL to create a platform for users to voulnteer in local servrices.
+  Group project using Node.js, Express, and MySQL to create a platform for users to volunteer in local services.
 
-- **[Professional Portfolio]((https://ryebread5555.github.io/Portfolio/))**  
-  Professional portfolio using React, Tailwind CSS, nodejs.
+- **[Professional Portfolio](https://ryebread5555.github.io/Portfolio/)**  
+  Professional portfolio using React, Tailwind CSS, Node.js.
 
 > 📝 *See more projects in my repositories → [GitHub Projects](https://github.com/Ryebread5555?tab=repositories)*
 
@@ -44,10 +44,10 @@ Currently, I’m focused on **React, Node.js, and modern JavaScript ecosystems**
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryebread5555&layout=compact&langs_count=8&theme=dracula)
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryebread5555&show_icons=true&theme=dracula)
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryebread5555&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryebread5555&layout=compact&langs_count=8&theme=dracula" />
+</p>
 
 ---
 

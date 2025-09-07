@@ -29,14 +29,14 @@ Currently, I’m focused on **React, Node.js, and modern JavaScript ecosystems**
 
 ## 🚀 Featured Projects  
 
-- **[Banking Dashboard](https://github.com/Ryebread5555/Banking-Dashboard)**  
-  A full-stack financial dashboard that visualizes customer data and transactions with secure authentication and role-based access.  
+- **[Pet Services]((https://github.com/dltorrise/Pet-Services))**  
+  A fullstack project using Google API, stripe, and mongoDB for users to create accounts, find local services, and checkout.
 
-- **[E-Commerce Storefront](https://github.com/Ryebread5555/Ecommerce-Store)**  
-  MERN-stack shopping platform with Stripe integration, cart management, and mobile-responsive design.  
+- **[Lean On Me](https://github.com/MunaZekia/Lean-On-Me)**  
+  Group project using nodejs, express, and mySQL to create a platform for users to voulnteer in local servrices.
 
-- **[TaskFlow](https://github.com/Ryebread5555/TaskFlow)**  
-  A team productivity app built with React and Node.js, featuring real-time updates via WebSockets.  
+- **[Professional Portfolio]((https://ryebread5555.github.io/Portfolio/))**  
+  Professional portfolio using React, Tailwind CSS, nodejs.
 
 > 📝 *See more projects in my repositories → [GitHub Projects](https://github.com/Ryebread5555?tab=repositories)*
 
@@ -45,8 +45,8 @@ Currently, I’m focused on **React, Node.js, and modern JavaScript ecosystems**
 ## 📊 GitHub Stats  
 
 <div align="center">
-   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryebread5555&show_icons=true&theme=dracula" />
-   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryebread5555&layout=compact&langs_count=8&theme=dracula"/>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryebread5555&layout=compact&langs_count=8&theme=dracula)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryebread5555&show_icons=true&theme=dracula)
 </div>
 
 ---
